@@ -3,5 +3,6 @@ orange
 yellow
 green
 red
+blue
 purple
 and this is a rainbow.
