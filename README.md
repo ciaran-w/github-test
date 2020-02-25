@@ -1,2 +1,2 @@
 # github-test
-learn how to use github
+learn how to use github and git.
